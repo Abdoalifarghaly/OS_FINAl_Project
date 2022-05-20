@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6a66149-6b40-4d21-a699-748c6f22deab": {
+      "ProjectGuid": "e6a66149-6b40-4d21-a699-748c6f22deab",
+      "DisplayName": "Simple Shell",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
